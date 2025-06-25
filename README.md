@@ -1,5 +1,5 @@
 tic tac toe game
-allows players to enter names nad choose markers
+allows players to enter names and choose markers
 checks winning and draw condition
 calls each player by name
 counts number of moves of each player 
