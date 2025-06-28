@@ -1,6 +1,6 @@
-tic tac toe game  
-allows players to enter names and choose markers      
-checks winning and draw condition                                                                                                                                       
-calls each player by name
-counts number of moves of each player 
-asks if the players want to play again
+Tic Tac Toe Game Features:  
+- Allows players to enter names and choose markers  
+- Checks winning and draw conditions  
+- Calls each player by name  
+- Counts number of moves of each player  
+- Asks if the players want to play again  
